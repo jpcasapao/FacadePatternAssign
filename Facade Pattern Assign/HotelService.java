@@ -1,0 +1,3 @@
+interface HotelService {
+    void performService();
+}
